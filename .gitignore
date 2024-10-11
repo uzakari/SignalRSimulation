@@ -1,5 +1,6 @@
 # .NET Core/Visual Studio
 ## Ignore build results
+.DS_Store
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
